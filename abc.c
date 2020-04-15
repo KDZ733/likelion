@@ -5,4 +5,3 @@ int main() {
 }
 
 
-error code
